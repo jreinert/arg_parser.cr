@@ -1,0 +1,9 @@
+name: arg_parser
+version: 0.1.0
+
+authors:
+  - Joakim Reinert <mail@jreinert.com>
+
+crystal: 0.24.2
+
+license: MIT
